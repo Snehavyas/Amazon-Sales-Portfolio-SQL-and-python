@@ -1,5 +1,10 @@
 # Amazon-Sales-Portfolio-SQL-and-python
 
+## Project Objective
+
+### Dataset Used
+-<a href = "https://www.kaggle.com/datasets/devarajv88/target-dataset/data> Dataset
+
 Questions 
 Find the total sales per category.Calculate the percentage of orders that were paid in installments.
 Count the number of customers from each state. 

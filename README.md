@@ -1,6 +1,7 @@
 # Amazon-Sales-Portfolio-SQL-and-python
 
 ## Project Objective
+This project leverages SQL and Python to analyze a real-world dataset, uncovering valuable insights through data manipulation, visualization, and statistical analysis. By utilizing SQL for data querying and cleaning, combined with Python's robust libraries for data analysis, this project demonstrates efficient data handling and insightful reporting. The outcomes include actionable insights derived from trends, patterns, and anomalies in the dataset, showcasing the practical application of data analytics skills.
 
 ### Dataset Used
 -<a href = "https://www.kaggle.com/datasets/devarajv88/target-dataset/data">Dataset </a>
